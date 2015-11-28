@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448737659 source:c:\users\rxz\documents\eddy\teste\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+
